@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/NTSomic-Bold.ttf",
+      "sha1": "73bcf7ee66cae64da9e85bc7b216d91e743ef19b"
+    },
+    {
+      "path": "src/assets/fonts/NTSomic-Medium.ttf",
+      "sha1": "cfda66a12cb384e6ae48a7e3e1fbd95e026cb706"
+    },
+    {
+      "path": "src/assets/fonts/NTSomic-Regular.ttf",
+      "sha1": "f531fa8e89003568ac70a0fc684c4749c5a86fe3"
+    },
+    {
+      "path": "src/assets/fonts/NTSomic-Semibold.ttf",
+      "sha1": "b4f671c06da4a1ef29f37974822a5116a1ddc8ba"
+    },
+    {
+      "path": "src/assets/fonts/Oddval-SemiBold.ttf",
+      "sha1": "93672ea097683bc482988a135750d55d23cc2a48"
+    },
+    {
+      "path": "src/assets/fonts/Oddval-SemiBoldItalic.ttf",
+      "sha1": "32510a1f6f2428efdccdb3f7572091b49ce080ae"
+    }
+  ]
+}
